@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H30B8rH2qzoSJWfGiZkL1hETDY5ZMlTIbKQ5+dF2Vj/sqTcc9oKa6p7I9Z4e3I/CGsMweJqz4XMb934D6cpR9Q==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Usuario\\Desktop\\Ejercicio_PipesAndFilters\\PII_Twitter_API\\src\\Program\\Program.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

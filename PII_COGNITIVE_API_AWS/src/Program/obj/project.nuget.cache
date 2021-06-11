@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "d7Y1UKTWIXQSXKMKdVgKbYA5neWDKQH5IsJtMUzGxUm7+HPj9TASLBiRS6egxsiPhjFPM0NHjG+bzarkCbw4yA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Usuario\\Desktop\\Ejercicio_PipesAndFilters\\PII_COGNITIVE_API_AWS\\src\\Program\\Program.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\awssdk.core\\3.7.0.31\\awssdk.core.3.7.0.31.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\awssdk.rekognition\\3.7.1.6\\awssdk.rekognition.3.7.1.6.nupkg.sha512"
+  ],
+  "logs": []
+}
