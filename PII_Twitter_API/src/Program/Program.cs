@@ -9,7 +9,7 @@ namespace TwitterUCU
             string consumerKey = "";
             string consumerKeySecret = "";
             string accessTokenSecret = "";
-            string accessToken = "1396065818-";
+            string accessToken = "";
             var twitter = new TwitterImage(consumerKey, consumerKeySecret, accessToken, accessTokenSecret);
             Console.WriteLine(twitter.PublishToTwitter("New Employee 2! ",@"bill2.jpg"));
             var twitterDirectMessage = new TwitterMessage(consumerKey, consumerKeySecret, accessToken, accessTokenSecret);
