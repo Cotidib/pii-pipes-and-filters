@@ -13,17 +13,19 @@ namespace CompAndDel
 
             FilterGreyscale grayscale = new FilterGreyscale();
             FilterNegative negative = new FilterNegative();
+            FilterSave save = new FilterSave();
 
             PipeNull pipeNull = new PipeNull();
 
-            PipeSerial pipeSerialNegative = new PipeSerial(negative,pipeNull);
-            PipeSerial pipeSerialGrayscale = new PipeSerial(grayscale,pipeSerialNegative);
+            PipeSerial pipeSave1 = new PipeSerial(save,pipeNull);
+
+            PipeSerial pipeSerialNegative = new PipeSerial(negative,pipeSave1);
+
+            PipeSerial pipeSave0 = new PipeSerial(save,pipeSerialNegative);
+
+            PipeSerial pipeSerialGrayscale = new PipeSerial(grayscale,pipeSave0);
 
             pipeSerialGrayscale.Send(pic); 
-            pipeSerialNegative.Send(pic);
-
-           
-            
         }
     }
 }

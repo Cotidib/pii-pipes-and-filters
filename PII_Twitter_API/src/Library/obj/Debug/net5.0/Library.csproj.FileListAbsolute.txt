@@ -10,3 +10,15 @@ C:\Users\Usuario\Desktop\Ejercicio_PipesAndFilters\PII_Twitter_API\src\Library\o
 C:\Users\Usuario\Desktop\Ejercicio_PipesAndFilters\PII_Twitter_API\src\Library\obj\Debug\net5.0\TwitterApi.dll
 C:\Users\Usuario\Desktop\Ejercicio_PipesAndFilters\PII_Twitter_API\src\Library\obj\Debug\net5.0\ref\TwitterApi.dll
 C:\Users\Usuario\Desktop\Ejercicio_PipesAndFilters\PII_Twitter_API\src\Library\obj\Debug\net5.0\TwitterApi.pdb
+C:\Users\cabur\Desktop\EjercicioPipe&Filters\Ejercicio_PipesAndFilters\PII_Twitter_API\src\Library\bin\Debug\net5.0\TwitterApi.deps.json
+C:\Users\cabur\Desktop\EjercicioPipe&Filters\Ejercicio_PipesAndFilters\PII_Twitter_API\src\Library\bin\Debug\net5.0\TwitterApi.dll
+C:\Users\cabur\Desktop\EjercicioPipe&Filters\Ejercicio_PipesAndFilters\PII_Twitter_API\src\Library\bin\Debug\net5.0\ref\TwitterApi.dll
+C:\Users\cabur\Desktop\EjercicioPipe&Filters\Ejercicio_PipesAndFilters\PII_Twitter_API\src\Library\bin\Debug\net5.0\TwitterApi.pdb
+C:\Users\cabur\Desktop\EjercicioPipe&Filters\Ejercicio_PipesAndFilters\PII_Twitter_API\src\Library\obj\Debug\net5.0\Library.csprojAssemblyReference.cache
+C:\Users\cabur\Desktop\EjercicioPipe&Filters\Ejercicio_PipesAndFilters\PII_Twitter_API\src\Library\obj\Debug\net5.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cabur\Desktop\EjercicioPipe&Filters\Ejercicio_PipesAndFilters\PII_Twitter_API\src\Library\obj\Debug\net5.0\Library.AssemblyInfoInputs.cache
+C:\Users\cabur\Desktop\EjercicioPipe&Filters\Ejercicio_PipesAndFilters\PII_Twitter_API\src\Library\obj\Debug\net5.0\Library.AssemblyInfo.cs
+C:\Users\cabur\Desktop\EjercicioPipe&Filters\Ejercicio_PipesAndFilters\PII_Twitter_API\src\Library\obj\Debug\net5.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\cabur\Desktop\EjercicioPipe&Filters\Ejercicio_PipesAndFilters\PII_Twitter_API\src\Library\obj\Debug\net5.0\TwitterApi.dll
+C:\Users\cabur\Desktop\EjercicioPipe&Filters\Ejercicio_PipesAndFilters\PII_Twitter_API\src\Library\obj\Debug\net5.0\ref\TwitterApi.dll
+C:\Users\cabur\Desktop\EjercicioPipe&Filters\Ejercicio_PipesAndFilters\PII_Twitter_API\src\Library\obj\Debug\net5.0\TwitterApi.pdb
