@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/102/trunk/TagParser/PicEditor/Filtros/Pipes
+END
+PipeSerial.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/96/trunk/TagParser/PicEditor/Filtros/Pipes/PipeSerial.cs
+END
+PipeFork.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/89/trunk/TagParser/PicEditor/Filtros/Pipes/PipeFork.cs
+END
+PipeNull.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/102/trunk/TagParser/PicEditor/Filtros/Pipes/PipeNull.cs
+END
+DummyPipe.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/89/trunk/TagParser/PicEditor/Filtros/Pipes/DummyPipe.cs
+END
