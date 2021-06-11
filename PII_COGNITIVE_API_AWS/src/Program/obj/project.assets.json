@@ -109,11 +109,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Usuario\\Desktop\\Ejercicio_PipesAndFilters\\PII_COGNITIVE_API_AWS\\src\\Program\\Program.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Ejercicio_PipesAndFilters\\PII_COGNITIVE_API_AWS\\src\\Program\\Program.csproj",
       "projectName": "Program",
-      "projectPath": "c:\\Users\\Usuario\\Desktop\\Ejercicio_PipesAndFilters\\PII_COGNITIVE_API_AWS\\src\\Program\\Program.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Desktop\\Ejercicio_PipesAndFilters\\PII_COGNITIVE_API_AWS\\src\\Program\\Program.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Usuario\\Desktop\\Ejercicio_PipesAndFilters\\PII_COGNITIVE_API_AWS\\src\\Program\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Desktop\\Ejercicio_PipesAndFilters\\PII_COGNITIVE_API_AWS\\src\\Program\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -134,8 +134,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "c:\\Users\\Usuario\\Desktop\\Ejercicio_PipesAndFilters\\PII_COGNITIVE_API_AWS\\src\\Library\\Library.csproj": {
-              "projectPath": "c:\\Users\\Usuario\\Desktop\\Ejercicio_PipesAndFilters\\PII_COGNITIVE_API_AWS\\src\\Library\\Library.csproj"
+            "C:\\Users\\Usuario\\Desktop\\Ejercicio_PipesAndFilters\\PII_COGNITIVE_API_AWS\\src\\Library\\Library.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\Desktop\\Ejercicio_PipesAndFilters\\PII_COGNITIVE_API_AWS\\src\\Library\\Library.csproj"
             }
           }
         }
