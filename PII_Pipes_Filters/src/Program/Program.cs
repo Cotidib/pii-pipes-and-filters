@@ -14,14 +14,19 @@ namespace CompAndDel
             FilterGreyscale grayscale = new FilterGreyscale();
             FilterNegative negative = new FilterNegative();
             FilterSave save = new FilterSave();
+            FilterTwitterPost twitterPost = new FilterTwitterPost();
 
             PipeNull pipeNull = new PipeNull();
 
-            PipeSerial pipeSave1 = new PipeSerial(save,pipeNull);
+            PipeSerial pipeSerialTwitterPostNegative = new PipeSerial(twitterPost,pipeNull);
+
+            PipeSerial pipeSave1 = new PipeSerial(save,pipeSerialTwitterPostNegative);
 
             PipeSerial pipeSerialNegative = new PipeSerial(negative,pipeSave1);
 
-            PipeSerial pipeSave0 = new PipeSerial(save,pipeSerialNegative);
+            PipeSerial pipeSerialTwitterPostGrayscale = new PipeSerial(twitterPost,pipeSerialNegative);
+
+            PipeSerial pipeSave0 = new PipeSerial(save,pipeSerialTwitterPostGrayscale);
 
             PipeSerial pipeSerialGrayscale = new PipeSerial(grayscale,pipeSave0);
 
