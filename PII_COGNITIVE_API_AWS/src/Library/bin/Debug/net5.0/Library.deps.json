@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Library/1.0.0": {
+        "dependencies": {
+          "AWSSDK.Rekognition": "3.7.1.6"
+        },
+        "runtime": {
+          "Library.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.7.0.31": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.0.31"
+          }
+        }
+      },
+      "AWSSDK.Rekognition/3.7.1.6": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.0.31"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Rekognition.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.1.6"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.7.0.31": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-C2vzPag+Rzb1hBiMUwRW+HQzIrsPxxKBk7EMX0AUxkApg36DOGXI1Aha4xpC0w5sWqRuQAJ3YW0Ihk1nPlBzKA==",
+      "path": "awssdk.core/3.7.0.31",
+      "hashPath": "awssdk.core.3.7.0.31.nupkg.sha512"
+    },
+    "AWSSDK.Rekognition/3.7.1.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IowAR141+MoteFltYro5GpRlr4FSxMZApPQ4/jCKvK34KI/JFMsj4iN6tgnJTaiHX6CURbgt23WqDv9ipeVtog==",
+      "path": "awssdk.rekognition/3.7.1.6",
+      "hashPath": "awssdk.rekognition.3.7.1.6.nupkg.sha512"
+    }
+  }
+}

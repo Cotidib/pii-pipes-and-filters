@@ -1,0 +1,12 @@
+C:\Users\Usuario\Desktop\Ejercicio_PipesAndFilters\PII_COGNITIVE_API_AWS\src\Library\bin\Debug\net5.0\Library.deps.json
+C:\Users\Usuario\Desktop\Ejercicio_PipesAndFilters\PII_COGNITIVE_API_AWS\src\Library\bin\Debug\net5.0\Library.dll
+C:\Users\Usuario\Desktop\Ejercicio_PipesAndFilters\PII_COGNITIVE_API_AWS\src\Library\bin\Debug\net5.0\ref\Library.dll
+C:\Users\Usuario\Desktop\Ejercicio_PipesAndFilters\PII_COGNITIVE_API_AWS\src\Library\bin\Debug\net5.0\Library.pdb
+C:\Users\Usuario\Desktop\Ejercicio_PipesAndFilters\PII_COGNITIVE_API_AWS\src\Library\obj\Debug\net5.0\Library.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Ejercicio_PipesAndFilters\PII_COGNITIVE_API_AWS\src\Library\obj\Debug\net5.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Ejercicio_PipesAndFilters\PII_COGNITIVE_API_AWS\src\Library\obj\Debug\net5.0\Library.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Ejercicio_PipesAndFilters\PII_COGNITIVE_API_AWS\src\Library\obj\Debug\net5.0\Library.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Ejercicio_PipesAndFilters\PII_COGNITIVE_API_AWS\src\Library\obj\Debug\net5.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Ejercicio_PipesAndFilters\PII_COGNITIVE_API_AWS\src\Library\obj\Debug\net5.0\Library.dll
+C:\Users\Usuario\Desktop\Ejercicio_PipesAndFilters\PII_COGNITIVE_API_AWS\src\Library\obj\Debug\net5.0\ref\Library.dll
+C:\Users\Usuario\Desktop\Ejercicio_PipesAndFilters\PII_COGNITIVE_API_AWS\src\Library\obj\Debug\net5.0\Library.pdb
