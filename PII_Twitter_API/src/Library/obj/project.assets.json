@@ -51,31 +51,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Administrador\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Ejercicio_PipesAndFilters\\PII_Twitter_API\\src\\Library\\Library.csproj",
+      "projectUniqueName": "c:\\Users\\Administrador\\OneDrive\\Documentos\\Ralf\\UCU\\Programación II 2021\\Ejercicio_PipesAndFilters\\PII_Twitter_API\\src\\Library\\Library.csproj",
       "projectName": "TwitterApi",
-      "projectPath": "C:\\Users\\Usuario\\Desktop\\Ejercicio_PipesAndFilters\\PII_Twitter_API\\src\\Library\\Library.csproj",
-      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Desktop\\Ejercicio_PipesAndFilters\\PII_Twitter_API\\src\\Library\\obj\\",
+      "projectPath": "c:\\Users\\Administrador\\OneDrive\\Documentos\\Ralf\\UCU\\Programación II 2021\\Ejercicio_PipesAndFilters\\PII_Twitter_API\\src\\Library\\Library.csproj",
+      "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Administrador\\OneDrive\\Documentos\\Ralf\\UCU\\Programación II 2021\\Ejercicio_PipesAndFilters\\PII_Twitter_API\\src\\Library\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

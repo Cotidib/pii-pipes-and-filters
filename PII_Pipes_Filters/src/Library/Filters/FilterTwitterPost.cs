@@ -12,8 +12,9 @@ namespace CompAndDel.Filters
             string consumerKeySecret = "";
             string accessTokenSecret = "";
             string accessToken = "";
+            
             var twitter = new TwitterImage(consumerKey, consumerKeySecret, accessToken, accessTokenSecret);
-            Console.WriteLine(twitter.PublishToTwitter("text",@"../../Assets/FinalNewImage.jpg"));     
+            Console.WriteLine(twitter.PublishToTwitter("Equipo 2",image.ImagePath));     
             return image;
         }
     }
