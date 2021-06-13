@@ -8,7 +8,7 @@ namespace CompAndDel
     {
         public IPicture GetPicture(string imgPath)
         {
-            Picture p = new Picture(1,1);
+            Picture p = new Picture(1,1, imgPath);
             using (var img = Image.Load(imgPath))
             {
                 p.Resize(img.Width,img.Height);

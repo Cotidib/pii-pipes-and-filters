@@ -23,6 +23,8 @@ namespace CompAndDel
         /// </summary>
         Int32 Height { get; }
 
+        string ImagePath {get;}
+
         /// <summary>
         /// Retorna el color del punto localizado en la posicion (x, y) de la imagen. La esquina superior
         /// izquiera de la matriz corresponde al punto (0,0) y el inferior derecho al (Width - 1, Height -1).

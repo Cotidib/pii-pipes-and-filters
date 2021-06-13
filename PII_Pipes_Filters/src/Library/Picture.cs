@@ -10,15 +10,20 @@ namespace CompAndDel
     {
         private Color[,] matrizColores;
        
+        public string ImagePath { get;}
+
         /// <summary>
         /// Constructor de imagen
         /// </summary>
         /// <param name="width">Ancho en pixels de la imagen</param>
         /// <param name="height">Altura en pixels de la imagen</param>
-        public Picture(Int32 width, Int32 height)
+        /// <param name="imagePath">Path de la imágen original para el uso de filtros condicionales</param>
+
+        public Picture(Int32 width, Int32 height, string imagePath)
         {
             this.matrizColores = new Color[width, height];
             this.matrizColores.Initialize();
+            this.ImagePath = imagePath;
         }
         /// <summary>
         /// Devuelve el ancho en pixels de la imagen
@@ -90,7 +95,7 @@ namespace CompAndDel
         /// <returns>Clon de la imagen</returns>
         public IPicture Clone()
         {
-            Picture pictureClone = new Picture(this.Width, this.Height);
+            Picture pictureClone = new Picture(this.Width, this.Height, this.ImagePath);
             for (int x = 0; x < pictureClone.Width; x++)
             {
                 for (int y = 0; y < pictureClone.Height; y++)
