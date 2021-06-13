@@ -9,26 +9,17 @@ namespace CompAndDel
         static void Main(string[] args)
         {
             PictureProvider p = new PictureProvider();
-            IPicture pic = p.GetPicture("../../Assets/Joker.jpeg");
+            IPicture pic = p.GetPicture("../../Assets/tree.jpeg");
 
-            FilterGreyscale grayscale = new FilterGreyscale();
-            FilterNegative negative = new FilterNegative();
             FilterSave save = new FilterSave();
-            FilterTwitterPost twitterPost = new FilterTwitterPost();
-            FaceRecognitionFilter conditionalFilter = new FaceRecognitionFilter();
-
+            FilterBlurConvolution blur = new FilterBlurConvolution();
 
             PipeNull pipeNull = new PipeNull();
+            PipeSerial pipeSave = new PipeSerial(save, pipeNull);
 
-            PipeSerial pipeSerialNegative = new PipeSerial(negative, pipeNull);
+            PipeSerial pipeSerialConv = new PipeSerial(blur, pipeSave);
 
-            PipeSerial pipeSerialTwitterPost = new PipeSerial(twitterPost, pipeNull);
-            
-            PipeConditionalFork pipeConditionalFork = new PipeConditionalFork(pipeSerialTwitterPost, pipeSerialNegative, conditionalFilter);
-
-            PipeSerial pipeSerialGrayscale = new PipeSerial(grayscale, pipeConditionalFork);
-
-            pipeSerialGrayscale.Send(pic); 
+            pipeSerialConv.Send(pic); 
         }
     }
 }
