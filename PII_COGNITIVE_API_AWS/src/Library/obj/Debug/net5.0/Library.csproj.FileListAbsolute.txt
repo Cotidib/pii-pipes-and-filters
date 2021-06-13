@@ -34,3 +34,15 @@ C:\Users\Administrador\OneDrive\Documentos\Ralf\UCU\Programación II 2021\Ejerci
 C:\Users\Administrador\OneDrive\Documentos\Ralf\UCU\Programación II 2021\Ejercicio_PipesAndFilters\PII_COGNITIVE_API_AWS\src\Library\obj\Debug\net5.0\Library.dll
 C:\Users\Administrador\OneDrive\Documentos\Ralf\UCU\Programación II 2021\Ejercicio_PipesAndFilters\PII_COGNITIVE_API_AWS\src\Library\obj\Debug\net5.0\ref\Library.dll
 C:\Users\Administrador\OneDrive\Documentos\Ralf\UCU\Programación II 2021\Ejercicio_PipesAndFilters\PII_COGNITIVE_API_AWS\src\Library\obj\Debug\net5.0\Library.pdb
+C:\Users\Administrador\OneDrive\Escritorio\Ejercicio_PipesAndFilters\PII_COGNITIVE_API_AWS\src\Library\bin\Debug\net5.0\Library.deps.json
+C:\Users\Administrador\OneDrive\Escritorio\Ejercicio_PipesAndFilters\PII_COGNITIVE_API_AWS\src\Library\bin\Debug\net5.0\Library.dll
+C:\Users\Administrador\OneDrive\Escritorio\Ejercicio_PipesAndFilters\PII_COGNITIVE_API_AWS\src\Library\bin\Debug\net5.0\ref\Library.dll
+C:\Users\Administrador\OneDrive\Escritorio\Ejercicio_PipesAndFilters\PII_COGNITIVE_API_AWS\src\Library\bin\Debug\net5.0\Library.pdb
+C:\Users\Administrador\OneDrive\Escritorio\Ejercicio_PipesAndFilters\PII_COGNITIVE_API_AWS\src\Library\obj\Debug\net5.0\Library.csprojAssemblyReference.cache
+C:\Users\Administrador\OneDrive\Escritorio\Ejercicio_PipesAndFilters\PII_COGNITIVE_API_AWS\src\Library\obj\Debug\net5.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\OneDrive\Escritorio\Ejercicio_PipesAndFilters\PII_COGNITIVE_API_AWS\src\Library\obj\Debug\net5.0\Library.AssemblyInfoInputs.cache
+C:\Users\Administrador\OneDrive\Escritorio\Ejercicio_PipesAndFilters\PII_COGNITIVE_API_AWS\src\Library\obj\Debug\net5.0\Library.AssemblyInfo.cs
+C:\Users\Administrador\OneDrive\Escritorio\Ejercicio_PipesAndFilters\PII_COGNITIVE_API_AWS\src\Library\obj\Debug\net5.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\OneDrive\Escritorio\Ejercicio_PipesAndFilters\PII_COGNITIVE_API_AWS\src\Library\obj\Debug\net5.0\Library.dll
+C:\Users\Administrador\OneDrive\Escritorio\Ejercicio_PipesAndFilters\PII_COGNITIVE_API_AWS\src\Library\obj\Debug\net5.0\ref\Library.dll
+C:\Users\Administrador\OneDrive\Escritorio\Ejercicio_PipesAndFilters\PII_COGNITIVE_API_AWS\src\Library\obj\Debug\net5.0\Library.pdb

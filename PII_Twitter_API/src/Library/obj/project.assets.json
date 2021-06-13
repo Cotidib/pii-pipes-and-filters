@@ -51,34 +51,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cabur\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Administrador\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cabur\\Desktop\\EjercicioPipe&Filters\\Ejercicio_PipesAndFilters\\PII_Twitter_API\\src\\Library\\Library.csproj",
+      "projectUniqueName": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Ejercicio_PipesAndFilters\\PII_Twitter_API\\src\\Library\\Library.csproj",
       "projectName": "TwitterApi",
-      "projectPath": "C:\\Users\\cabur\\Desktop\\EjercicioPipe&Filters\\Ejercicio_PipesAndFilters\\PII_Twitter_API\\src\\Library\\Library.csproj",
-      "packagesPath": "C:\\Users\\cabur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cabur\\Desktop\\EjercicioPipe&Filters\\Ejercicio_PipesAndFilters\\PII_Twitter_API\\src\\Library\\obj\\",
+      "projectPath": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Ejercicio_PipesAndFilters\\PII_Twitter_API\\src\\Library\\Library.csproj",
+      "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Ejercicio_PipesAndFilters\\PII_Twitter_API\\src\\Library\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\cabur\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -117,7 +107,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "msuO8I1wylS6kJAWU6siCh7/Kevf31rYOTsuWkjJYovlyxH4omF0dxC8K3S8M1zqZX6+jmJvw4D3B3kWWP2d+g==",
+  "dgSpecHash": "4uM4yW1ZfxeJRKhJAlaB3Q15ysWwfDiC6JmEdl4RqbW63JkkBtlViHSiossPwnn9vh0DuBF9OObSqrlbY++TJg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cabur\\Desktop\\EjercicioPipe&Filters\\Ejercicio_PipesAndFilters\\PII_COGNITIVE_API_AWS\\src\\Library\\Library.csproj",
+  "projectFilePath": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Ejercicio_PipesAndFilters\\PII_COGNITIVE_API_AWS\\src\\Library\\Library.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\cabur\\.nuget\\packages\\awssdk.core\\3.7.0.31\\awssdk.core.3.7.0.31.nupkg.sha512",
-    "C:\\Users\\cabur\\.nuget\\packages\\awssdk.rekognition\\3.7.1.6\\awssdk.rekognition.3.7.1.6.nupkg.sha512"
+    "C:\\Users\\Administrador\\.nuget\\packages\\awssdk.core\\3.7.0.31\\awssdk.core.3.7.0.31.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\awssdk.rekognition\\3.7.1.6\\awssdk.rekognition.3.7.1.6.nupkg.sha512"
   ],
   "logs": []
 }
