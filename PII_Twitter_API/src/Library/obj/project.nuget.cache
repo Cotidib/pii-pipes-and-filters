@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "F0xKKppPN6vMgyrMv+VNeSUoZdgdYnpHy27NXCt/O7MnY1z/4JZ0GkiVQewtZgWQHtKaIvdlbvoIpKtQbE9nbQ==",
+  "dgSpecHash": "CC3MrdvOoiv54MQBywf81MV0ZCLxL7iQ+GKEamLMFUs+I3JyoYZctPEDsN0aW+JrlF2p+WACjY2GaMbGP2si0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cabur\\Desktop\\EjercicioPipe&Filters\\Ejercicio_PipesAndFilters\\PII_Twitter_API\\src\\Library\\Library.csproj",
+  "projectFilePath": "C:\\Users\\Administrador\\OneDrive\\Escritorio\\Ejercicio_PipesAndFilters\\PII_Twitter_API\\src\\Library\\Library.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\cabur\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512"
+    "C:\\Users\\Administrador\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512"
   ],
   "logs": []
 }
